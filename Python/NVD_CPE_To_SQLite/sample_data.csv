@@ -1,0 +1,101 @@
+title,cpe_version,part,vendor,product,version,cve_update,edition,language,sw_edition,target_sw,target_hw,other
+ABB RTU500 Firmware 12.2.1.0,2.3,o,abb,rtu500_firmware,12.2.1.0,*,*,*,*,*,*,*
+CogniToys STEMosaur Firmware 0.0.794,2.3,o,cognitoys,stemosaur_firmware,0.0.794,*,*,*,*,*,*,*
+Mitsubishi GB-50ADA-J,2.3,h,mitsubishi,gb-50ada-j,-,*,*,*,*,*,*,*
+Varnish Software Varnish Cache 6.0.3 LTS Edition,2.3,a,varnish-software,varnish_cache,6.0.3,*,*,*,lts,*,*,*
+Nicdark ND Shortcodes 2.4 for WordPress,2.3,a,nicdark,nd_shortcodes,2.4,*,*,*,*,wordpress,*,*
+WordPlus Better Messages 1.9.0.1 for WordPress,2.3,a,wordplus,better_messages,1.9.0.1,*,*,*,*,wordpress,*,*
+Briar Project Briar 1.4.15,2.3,a,briarproject,briar,1.4.15,*,*,*,*,*,*,*
+Speed Software Explorer 2.1.5,2.3,a,speed_software,explorer,2.1.5,*,*,*,*,*,*,*
+Google Chrome 90.0.4430.238,2.3,a,google,chrome,90.0.4430.238,*,*,*,*,*,*,*
+WSO2 Transport-HTTP 6.0.204,2.3,a,wso2,transport-http,6.0.204,*,*,*,*,*,*,*
+Octopus Server 2018.2.4,2.3,a,octopus,octopus_server,2018.2.4,*,*,*,*,*,*,*
+ZohoCorp ManageEngine Password Manager Pro 9.5 Build 9501,2.3,a,zohocorp,manageengine_password_manager_pro,9.5,build9501,*,*,-,*,*,*
+Elide 3.0.3,2.3,a,elide,elide,3.0.3,*,*,*,*,*,*,*
+Erlang/OTP 21.3.8.24,2.3,a,erlang,erlang\/otp,21.3.8.24,*,*,*,*,*,*,*
+1Password 1.0.1.146 for Windows,2.3,a,1password,1password,1.0.1.146,*,*,*,*,windows,*,*
+Pay Project Pay 6.0.2 for Ruby,2.3,a,pay_project,pay,6.0.2,*,*,*,*,ruby,*,*
+Canonical Apport 2.20.8-0ubuntu4,2.3,a,canonical,apport,2.20.8-0ubuntu4,*,*,*,*,*,*,*
+Arq Backup Arq 1.3.5 Mac OS,2.3,a,arqbackup,arq,1.3.5,*,*,*,*,mac_os,*,*
+SmartBear Swagger UI Dist 2.0.0 for Node.js,2.3,a,smartbear,swagger-ui-dist,2.0.0,*,*,*,*,node.js,*,*
+Cisco ASA 5540 Firmware 9.6(4),2.3,o,cisco,asa_5540_firmware,9.6\(4\),*,*,*,*,*,*,*
+Snyk CLI 1.1028.0,2.3,a,snyk,snyk_cli,1.1028.0,*,*,*,*,*,*,*
+WPRuby Ruby Help Desk 1.2.0 for WordPress,2.3,a,wpruby,ruby_help_desk,1.2.0,*,*,*,*,wordpress,*,*
+Jenkins Ivy 2.2 for Jenkins,2.3,a,jenkins,ivy,2.2,*,*,*,*,jenkins,*,*
+Suse Subscription Management Tool 2.13.10,2.3,a,suse,subscription_management_tool,2.13.10,*,*,*,*,*,*,*
+MapPressPro MapPress 2.67.6 for WordPress,2.3,a,mappresspro,mappress_maps,2.67.6,*,*,*,*,wordpress,*,*
+Parks Fiberlink 210,2.3,h,eparks,fiberlink_210,-,*,*,*,*,*,*,*
+OpenJS Foundation dijit 1.3.0 Beta 2,2.3,a,openjsf,dijit,1.3.0,beta2,*,*,*,*,*,*
+Cloud Foundry UAA 3.6.13,2.3,a,cloudfoundry,uaa,3.6.13,*,*,*,*,*,*,*
+Net::Netmask Project Net::Netmask 1.9019 for Perl,2.3,a,net\,\,netmask_project,net\,\,netmask,1.9019,*,*,*
+Stampit 3.0.1,2.3,a,stampit,stampit,3.0.1,*,*,*,*,*,*,*
+INEX IXP Manager 3.0.7,2.3,a,inex,ixp_manager,3.0.7,*,*,*,*,*,*,*
+HanBang Digital Technology HB9816N08,2.3,h,hbgk,hb9816n08,-,*,*,*,*,*,*,*
+2kblater 2kb Amazon Affiliates Store 1.1.1 for WordPress,2.3,a,2kblater,2kb_amazon_affiliates_store,1.1.1,*,*,*,*,wordpress,*,*
+WordPress 3.8.18,2.3,a,wordpress,wordpress,3.8.18,*,*,*,*,*,*,*
+Moment.js Moment 2.22.2 for Node.js,2.3,a,momentjs,moment,2.22.2,*,*,*,*,node.js,*,*
+Signal 2.29.0.10 for iPhone OS,2.3,a,signal,signal,2.29.0.10,*,*,*,*,iphone_os,*,*
+Siemens RUGGEDCOM ROS RSG2288 5.0.0,2.3,o,siemens,ruggedcom_ros_rsg2288,5.0.0,*,*,*,*,*,*,*
+Metagauss RegistrationMagic 5.1.9.6 for WordPress,2.3,a,metagauss,registrationmagic,5.1.9.6,*,*,*,*,wordpress,*,*
+eZ Publish 2014.01.5,2.3,a,ez,ez_publish,2014.01.5,*,*,*,*,*,*,*
+Linux Foundation Yocto 3.0.1,2.3,a,linuxfoundation,yocto,3.0.1,*,*,*,*,*,*,*
+HP nonstop himalaya servers s78,2.3,h,hp,nonstop_himalaya_s78,-,*,*,*,*,*,*,*
+Cisco iOS XE 16.9,2.3,a,cisco,ios_xe,16.9,*,*,*,*,*,*,*
+x.org libXi 1.6.1,2.3,a,x,libxi,1.6.1,*,*,*,*,*,*,*
+Promptworks RedCloth 4.2.1 for Ruby,2.3,a,promptworks,redcloth,4.2.1,*,*,*,*,ruby,*,*
+Wpbookingcalendar Booking Calendar 5.2 for WordPress,2.3,a,wpbookingcalendar,booking_calendar,5.2,*,*,*,*,wordpress,*,*
+Cisco Firepower Threat Defense (FTD) 9.8.2.26,2.3,a,cisco,firepower_threat_defense,9.8.2.26,*,*,*,*,*,*,*
+Otfcc Project Otfcc 0.1.5,2.3,a,otfcc_project,otfcc,0.1.5,*,*,*,*,*,*,*
+PDQ LaserJet,2.3,h,pdqinc,laserjet,-,*,*,*,*,*,*,*
+Cisco IOS 12.2(25)EWA11,2.3,o,cisco,ios,12.2\(25\)ewa11,*,*,*,*,*,*,*
+Evernote 7.5.1 Mac OS X,2.3,a,evernote,evernote,7.5.1,*,*,*,*,mac_os_x,*,*
+Orchest 2022.02.7,2.3,a,orchest,orchest,2022.02.7,*,*,*,*,*,*,*
+freedesktop systemd 054,2.3,a,freedesktop,systemd,054,*,*,*,*,*,*,*
+Avahi 0.6.26,2.3,a,avahi,avahi,0.6.26,*,*,*,*,*,*,*
+DuckDuckGo 7.23.0 for iPhone OS,2.3,a,duckduckgo,duckduckgo,7.23.0,*,*,*,*,iphone_os,*,*
+Intel Core i5-3337U,2.3,h,intel,core_i5-3337u,-,*,*,*,*,*,*,*
+VMware Spring Integration 2.2.4,2.3,a,vmware,spring_integration,2.2.4,*,*,*,*,*,*,*
+Highlight 2.8.0 for Node.js,2.3,a,highlight,highlight,2.8.0,*,*,*,*,node.js,*,*
+NoScript 1.7.8.4,2.3,a,noscript,noscript,1.7.8.4,*,*,*,*,*,*,*
+Intel Converged Security Management Engine Firmware (CSME) 11.8.55,2.3,o,intel,converged_security_management_engine_firmware,11.8.55,*,*,*,*,*,*,*
+Mesa 3d Mesa 18.1.5,2.3,a,mesa3d,mesa,18.1.5,*,*,*,*,*,*,*
+WhatsApp 2.17.4 for iPhone OS,2.3,a,whatsapp,whatsapp,2.17.4,*,*,*,*,iphone_os,*,*
+SiCKRAGE 9.4.208 Dev4,2.3,a,sickrage,sickrage,9.4.208,dev4,*,*,*,*,*,*
+Snyk CLI 1.3.0,2.3,a,snyk,snyk_cli,1.3.0,*,*,*,*,*,*,*
+Oracle Revenue Management and Billing 2.7.0.0,2.3,a,oracle,revenue_management_and_billing,2.7.0.0,*,*,*,*,*,*,*
+Semper Plugins All in One SEO Pack 1.3.8.6 for WordPress,2.3,a,semperplugins,all_in_one_seo_pack,1.3.8.6,*,*,*,*,wordpress,*,*
+Kaine Wise Chat 2.9.5 for Wordpress,2.3,a,kaine,wise_chat,2.9.5,*,*,*,*,wordpress,*,*
+The Journeyman Press JPress 0.0.3,2.3,a,jpress,jpress,0.0.3,*,*,*,*,*,*,*
+Jenkins Bitbucket Branch Source 2.9.11.2 for Jenkins,2.3,a,jenkins,bitbucket_branch_source,2.9.11.2,*,*,*,*,jenkins,*,*
+Postieplugin Postie 1.1 for WordPress,2.3,a,postieplugin,postie,1.1,*,*,*,*,wordpress,*,*
+gRPC 1.4.2 for Node.js,2.3,a,grpc,grpc,1.4.2,*,*,*,*,node.js,*,*
+PyPDF2 Project PyPDF2 2.12.1,2.3,a,pypdf2_project,pypdf2,2.12.1,*,*,*,*,*,*,*
+RPM librepo 1.7.17,2.3,a,rpm,librepro,1.7.17,*,*,*,*,*,*,*
+Fedora 31,2.3,o,fedoraproject,fedora,31,*,*,*,*,*,*,*
+Stripe CLI 1.2.0,2.3,a,stripe,stripe_cli,1.2.0,*,*,*,*,*,*,*
+ThemePunch Slider Revolution for WordPress 4.2.2,2.3,a,themepunch,slider_revolution,4.2.2,*,*,*,*,wordpress,*,*
+Sangoma FreePBX 16.0.56.27,2.3,a,sangoma,freepbx,16.0.56.27,*,*,*,*,*,*,*
+NeuroML jLEMS 2.0 Low Entropy Model Specification,2.3,a,neuroml,jlems,2.0,*,*,*,*,lems,*,*
+exceljs Project exceljs 1.12.1 for Node.js,2.3,a,exceljs_project,exceljs,1.12.1,*,*,*,*,node.js,*,*
+Cube Cube.js 0.19.26 for Node.js,2.3,a,cube,cube.js,0.19.26,*,*,*,*,node.js,*,*
+Intel ConnMan 1.24,2.3,a,intel,connman,1.24,*,*,*,*,*,*,*
+Yop-poll Yop-poll 5.8.1 for Wordpress,2.3,a,yop-poll,yop-poll,5.8.1,*,*,*,*,wordpress,*,*
+IBM Java 7.0.4.0 Service Refresh 4,2.3,a,ibm,java,7.0.4.0,*,*,*,*,*,*,*
+OpenSolution Quick.Cms.Lite 0.5,2.3,a,opensolution,quick.cms.lite,0.5,*,*,*,*,*,*,*
+LimeSurvey 2.00 Release Candidate 2 1205621,2.3,a,limesurvey,limesurvey,2.00,rc2-1205621,*,*,*,*,*,*
+BOLDThemes Bold Page Builder 3.1.7 for WordPress,2.3,a,bold-themes,bold_page_builder,3.1.7,*,*,*,*,wordpress,*,*
+OpenMage Magento 1.7.0.2 LTS,2.3,a,openmage,magento,1.7.0.2,*,*,*,lts,*,*,*
+Unity3d Unity Editor 2019.1.9,2.3,a,unity3d,unity_editor,2019.1.9,*,*,*,*,*,*,*
+Huawei Honor 6 Firmware H60-L21,2.3,o,huawei,honor_6_firmware,h60-l21,*,*,*,*,*,*,*
+Gitphp Project Gitphp 0.2.4,2.3,a,gitphp_project,gitphp,0.2.4,*,*,*,*,*,*,*
+OpenVAS Manager 1.0.0 Beta1,2.3,a,openvas,openvas_manager,1.0.0,beta1,*,*,*,*,*,*
+Django Project Django 4.2.10,2.3,a,djangoproject,django,4.2.10,*,*,*,*,*,*,*
+Octopus Tentacle 3.23.2,2.3,a,octopus,tentacle,3.23.2,*,*,*,*,*,*,*
+Netty 4.1.49,2.3,a,netty,netty,4.1.49,*,*,*,*,*,*,*
+Suricata-IDS Suricata 1.3 Beta 2,2.3,a,suricata-ids,suricata,1.3,b2,*,*,*,*,*,*
+Factorio 0.17.14,2.3,a,factorio,factorio,0.17.14,*,*,*,*,*,*,*
+ACF Extended Advanced Custom Fields:Extended for WordPress,2.3,a,acf-extended,advanced_custom_fields\,extended,-,*,*,*,-,wordpress,*
+Craft CMS 3.4.12,2.3,a,craftcms,craft_cms,3.4.12,*,*,*,*,*,*,*
+Otfcc Project Otfcc 0.7.0,2.3,a,otfcc_project,otfcc,0.7.0,*,*,*,*,*,*,*
+Intel Xeon Gold 6448Y,2.3,h,intel,xeon_gold_6448y,-,*,*,*,*,*,*,*
+PHPUnit Project PHPUnit 7.4.4,2.3,a,phpunit_project,phpunit,7.4.4,*,*,*,*,-,*,*

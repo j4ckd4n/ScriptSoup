@@ -7,4 +7,6 @@ Include/
 lib/
 bin/
 share/
-pyenv.cfg
+
+Python/pyenv.cfg
+Python/pyvenv.cfg

@@ -10,3 +10,7 @@ share/
 
 Python/pyenv.cfg
 Python/pyvenv.cfg
+
+*.json
+*.log
+Python/monitor_smartctl/__pycache__/

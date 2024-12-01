@@ -16,7 +16,7 @@ console_handler.setLevel(logging.DEBUG)
 file_handler = logging.FileHandler('run_smartctl.log')
 file_handler.setLevel(logging.DEBUG)
 
-formatter = logging.Formatter('[%(asctime)s][%(levelname)s][%(threadName)s]: %(message)s')
+formatter = logging.Formatter('[%(asctime)s][%(levelname)s][%(threadName)s][run_smartctl.py]: %(message)s')
 console_handler.setFormatter(formatter)
 file_handler.setFormatter(formatter)
 

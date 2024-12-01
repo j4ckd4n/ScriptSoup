@@ -13,4 +13,4 @@ Python/pyvenv.cfg
 
 *.json
 *.log
-Python/monitor_smartctl/__pycache__/
+Python/system_monitor/__pycache__/

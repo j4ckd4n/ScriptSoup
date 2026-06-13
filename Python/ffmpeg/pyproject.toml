@@ -1,0 +1,20 @@
+[project]
+name = "ffmpeg"
+version = "0.1.0"
+description = "Messing around with ffmpeg python bindings"
+authors = [
+    {name = "j4ckd4n",email = "22923302+j4ckd4n@users.noreply.github.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ffmpeg-python (>=0.2.0,<0.3.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false

@@ -41,7 +41,7 @@ def nvec_resize(
     print(f"Detected original format: {original_codec.upper()}")
     print(f"Configuring standalone resize ({w}x{h}) using hardware encoder: {encoder}")
     
-    resized_video = video_stream.filter('scale_npp', w, h)
+    resized_video = video_stream.filter('scale', w, h)
     
     return ffmpeg.output(
         resized_video, audio_stream,
